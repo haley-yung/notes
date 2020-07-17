@@ -1,0 +1,113 @@
+What is homeostasis
+- To maintain a stable internal environment despite of the constant changing external environment
+
+How does an organism survive in a constantly changing environment.  
+- By detecting and responding to changes from the external environment. 
+- Returning the deviations in physiological values to optimal ones
+
+Why is homeostasis a dynamic process
+- As the body is constantly detecting and responding to changes
+
+Examples of physiological set points
+- Temperature
+- Blood glucose level
+
+What happens if the physiological values/setpoints are not maintained
+- Become sick
+
+What is a homeostatic control system
+- Contains receptor effector control center(the brain)
+- A system that maintains homeostasis
+- Receptor passes signal of change to the brain
+- The control center will then determine an optimal physiological set point 
+- The effector will then perform the change as instructed by the brain 
+
+Examples of input signal(receptor), output singal(effector)
+
+What does the receptor do after it recieves a signal
+- Detects changes and sends the signal to the brain
+
+What does the control center do with the signal
+- It analzyes and determines an optimal setpoint and instructs the effector to perform the change
+
+How does the constriction of skin and blood vessel decrease the heat loss from body
+- Vasodilation -> Increase lumen -> Increase blood flow -> Increase heat loss 
+- Vasoconstriction -> Decrease lumen 
+- Blood will carry heat -> Heat will be loss to the surface(skin)
+
+What is the purpose of feedback loops
+- To control physiological processes
+
+What does a positive feedback system do
+- Enhances the production of the product
+
+Example of positive feedback system
+- When the head of the fetus reaches the cervix, a hormone will be released to push the festus
+
+What does a negative feedback system do, how does it respond the change
+- Inhibits the change, by returning the deviated physiological value to an optimal setpoint
+
+What are afferent pathways
+- Afferent pathways 傳入
+- To detect stimuli from the outside environment
+- Tells the brain what they're sensing
+
+What are efferent pathways
+- Efferent pathways 傳出
+- To instruct different parts of the body
+- Pass signal from the Central Nervus System(brain) to the rest of the body
+
+List a common feature of hormones and neurotransmitters
+- Can transmit signals
+
+Differences with hormones and neurotransmitters
+1)Origin 
+- Horomones -> Endocrine glands to bloodstream to target destination
+- Neurotransmitters -> nervous system
+2)Speed
+- Hormones -> Slower as they have to propagate in the blood
+- Neurotransmitter -> High speed
+
+What are glands 
+- It secretes chemical substances
+
+Endocrine vs Exocrine
+- Endocrine secretes chemical substances into the bloodstream or tissue directly(hormones)
+- Exocrine releases chemical substances into ducts or the surface 
+
+What is the purpose of hormones
+- To instruct a target organ/tissue to perform something
+
+What is the purpose of neurotransmitters
+- To transmit signals
+
+What is the purpose of enzymes
+- Speed up and assist chemical activities to occur in our body
+
+What is adaptation, examples
+- Characteristics that favor survival
+
+What is acclimatization, examples 
+- Improved function of an existing homeostatic system
+
+Which one is reversible
+- Acclimatization
+
+Why does people born in mountains have higher RBC count
+- As there is less amount of oxygen in high altitude, the body will produce more RBC to increase the breathing rate
+
+What is biological rhythm, examples
+- Natural cycle in our body to affect out body
+
+What does biological rhythm do to the homeostatic control system
+- It adds an anticipatory component to the homeostatic control system
+
+How does adding an anticipatory component affect the homeostatic control system
+- The homeostatic control system can work without detecting a signal first(detector)
+- The system can carry out responses just before the stimulus/change occurs
+
+
+
+
+
+
