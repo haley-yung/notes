@@ -1,5 +1,5 @@
 = MED1001 Physiology =
 
 == Lectures ==
-* [[L1_Homeostasis]]
+* [[MED1001_L1_Homeostatis]]
 * 

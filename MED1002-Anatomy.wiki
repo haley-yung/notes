@@ -1,4 +1,4 @@
-= MED1001 Anatomy =
+= MED1002 Anatomy =
 
 == Lectures ==
-* [[L1_Introduction]]
+* [[MED1002_L1_Introduction]]
