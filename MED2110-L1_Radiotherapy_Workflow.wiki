@@ -1,0 +1,48 @@
+=L1 Radiotherapy Workflow=
+
+What is benign
+
+Difference with malignant and non-malignant disease
+
+Difference with superficial RT and opposite
+
+Why do we need superficial RT
+
+Types of radiation delivery
+
+What is the problem of invasive treatment techniques
+
+What is tomotherapy 
+
+What is cobalt machine
+
+What is cyber knife and how is it better than the linear accelerator
+
+What can the cyber knife do due to its characteristics
+
+Why do we need Brachytherapy when there is Teletherapy
+
+What is brachytherapy and what types of cancer can it cure
+
+What is internal administration
+
+List a safety precaution for brachytherapy and internal administration
+
+List staffs in a RT department
+
+What is the difference of engineers and physicists
+
+What is the consultation process and why is it important
+
+Why is consent important in the medical field
+
+What is the purpose of simulation
+
+Why do we need to have a planning stage
+
+Why do we need to have Quality Assurance
+
+Why do we need to have a Weekly Review
+
+
+
