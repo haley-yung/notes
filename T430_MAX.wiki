@@ -1,0 +1,16 @@
+https://medium.com/@n4ru/the-definitive-t430-modding-guide-3dff3f6a8e2e
+Here's the list of modifications:
+- i7-3840QM CPU (45W)
+- dGPU Heatsink / no dGPU
+- 1600 x 900 Glossy Alienware Display
+- Like New Classic Keyboard w/EC Flash
+- New TouchPad Sticker
+- BIOS Flashed / WLAN Whitelist Removed / AES-NI Unlocked / Advanced Menu Unlocked
+- Intel 7260 AC WLAN Card / WiFi LED Works
+- 16GB RAM 1600MHz
+- 135W Genuine Adapter
+- Cleaned / Refurbished / Minor Blemishes and Scratches Only
+- Like New OEM Battery - 93Wh Capacity
+- 1TB SSD
+- Overclocked to 4.2GHz w/ThrottleStop (MSR 0x194 unlock)
+

@@ -11,3 +11,13 @@
 
 == Progress ==
 * [[Tracker]]
+
+== Tech ==
+- [ ] Automate mbsync (cron)
+- [ ] Manual for neomutt
+- [ ] notmuch (search)
+- [ ] tags
+- [ ] folders
+- [ ] zathura
+- [ ] [[T430_MAX]]
+- [ ] [[Mac]]

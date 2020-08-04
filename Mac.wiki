@@ -1,0 +1,16 @@
+gdisk
+reflector
+mkfs.ext4
+mount to /mnt
+mont boot to /mnt/boot
+pacstrap 
+genfstab
+
+TRPB
+edit pacman.conf -> siglevel=Never + mbp
+install kernal
+
+JPyke
+23
+
+Install bce and spi drivers with pyke's repository

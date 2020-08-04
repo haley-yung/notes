@@ -1,11 +1,11 @@
 =MAIN=
-- [ ] RT L1
+- [x] RT L1
 - [ ] Chemistry Unit 2
 - [ ] MCG L1
 
 
 =Side Quests=
-- [ ] Setup PDF folder
+- [x] Setup PDF folder
 - [x] Guitar
 - [x] Xresources
 - [ ] i3 Config
@@ -14,6 +14,6 @@
 - [x] Font Size
 - [ ] VimWiki
 - [ ] Zsh
-- [ ] Pywol
+- [x] Pywol
 
 

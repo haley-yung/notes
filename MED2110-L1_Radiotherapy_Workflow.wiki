@@ -1,48 +1,107 @@
-=L1 Radiotherapy Workflow=
+What is tumor
+- Abnormal growth of tissues
 
 What is benign
+- Non cancerous tumour which will not spread to nearby tissues
 
 Difference with malignant and non-malignant disease
+- Maligant tumor will spread to other regions of the body rapidly which is harmful to the body
 
-Difference with superficial RT and opposite
+Difference between different treatment methods (Effectiveness, Safety, Treatment Time)
+- Brachytherapy 
+- -> Highly localized dose and very precise
+- -> Very precise and localized therefore reduce damange done to healthy tissues
+- -> Shorter treatment time (1 Week) compared to teletherapy
+
+- Teletherapy (External Beam)
+- -> Can deliver dosage to most parts of our body
+- -> Has to penetrate through healthy tissues, causing side effects
+- -> Longer treatment time, has to space out treatment time and dosage in order to reduce damage to issues
+
+- Chemotherapy 
+- -> Circulate around the body -> Effective in treating cancers that will spread
+- -> Wide range of side effect as it will circulate the whole body
 
 Why do we need superficial RT
+- As it can can treat wide range of cancers 
 
 Types of radiation delivery
+- Brachytherapy
+- Teletherapy
+- Internal Adminstration
 
 What is the problem of invasive treatment techniques
+- Access to body
+- Incisions (causing wounds on the body)
+- Increase healing time, pain and risk of infection
 
 What is tomotherapy 
+- Another way to deliver radiation therapy, through helical and spiral radiation pattern around the patient
+- Can perform CT Scan before treatment to ensure precision
+- Can use a high dose while minimizing the side effects to healthy tissues
 
 What is cobalt machine
+- Uses a radiactive source to create gamma rays
 
 What is cyber knife and how is it better than the linear accelerator
+- It is a linear accelerator mounted on a robot arm allowing more movement angles plus more precision (LA is isocentric and only 1 angle)
+- It is used to treat cancer in sensitive areas such as the brain and spinal cord
+- More accurate
 
 What can the cyber knife do due to its characteristics
+- It can be used to treat sensitive areas due to its accuracy
+- It is used to treat the brain as it is much accurate than a linear accelerator
 
 Why do we need Brachytherapy when there is Teletherapy
-
-What is brachytherapy and what types of cancer can it cure
+- As brachytherapy is directly inserting a radioactive substance inside a patient's body
+- This allows a more localized and precise radiation dose and does not have to penetrate through healthy body tissues
 
 What is internal administration
+- By eating radioactive sources and allow it to circulate around the body
+- Effective in treating tumors that will spread
+- However, will have wide range of side effects as it circulates around the body
 
 List a safety precaution for brachytherapy and internal administration
+- Radioactive substance is put into a safe
+- Radioactive substance for brachytherapy is inserted to the body of the patient with a machine instead of hand
 
 List staffs in a RT department
+- Nurses
+- Medical Physicist
+- Radiotherapist
+- Engineers
 
 What is the difference of engineers and physicists
+- Physicists is for quality assurance
+- Engineers is for maintaining the machines
 
 What is the consultation process and why is it important
+- Current situation of the cancer and treatment methods are explained to the patients 
+- Explain side effects
+- To acquire consent 
 
-Why is consent important in the medical field
+What is informed consent and why is it important
+- Medical Professionals will offer information about treatment options, risk and side effects to the patient
+- Allow patient to have a better understanding of the current situation
+- Create trust between patient and doctor
+- Protect medical professionals from law suits
 
 What is the purpose of simulation
+- Simulate treatment process
+- To obtain required data from CT Scans to facilitate planning
+- Immobilization for the treatment proccess
 
 Why do we need to have a planning stage
+- As every paitent will have a unique seperate plan
+- It is important to have a tailor made plan to treat the tumor while avoiding organs at risk
 
 Why do we need to have Quality Assurance
+- This is done before the treatment stage
+- This ensures the machine is outputting the required amount of dosage
 
 Why do we need to have a Weekly Review
+- To follow up on treatment 
+- See if there is extra side effects
 
 
 

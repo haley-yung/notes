@@ -1,0 +1,13 @@
+=MAIN=
+- [ ] RT L2
+- [ ] Chem Unit 2
+- [ ] MCG L1
+
+=Side Quests=
+- [ ] Tidy Room
+- [ ] Ranger
+- [ ] VimWiki
+- [ ] Zsh
+
+=PS=
+- [ ] Contact IT support
