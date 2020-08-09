@@ -1,3 +1,5 @@
+## Cancer ##
+
 What is tumor
 - Abnormal growth of tissues
 
@@ -6,6 +8,8 @@ What is benign
 
 Difference with malignant and non-malignant disease
 - Maligant tumor will spread to other regions of the body rapidly which is harmful to the body
+
+## Treatment Methods ##
 
 Difference between different treatment methods (Effectiveness, Safety, Treatment Time)
 - Brachytherapy 

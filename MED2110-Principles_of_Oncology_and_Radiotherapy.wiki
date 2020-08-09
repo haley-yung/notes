@@ -2,4 +2,5 @@
 
 ==Lectures==
 * [[MED2110-L1_Radiotherapy_Workflow]]
+* [[MED2110-L2_Concept_of_Isocenter]]
 * 
