@@ -1,0 +1,80 @@
+## L2 Concept of Isocenter ##
+
+* Verification vs Validation
+
+* CT Scan vs CT Therapy
+
+* DRR vs DCR
+
+* CT vs DRR
+
+* List one cons of using CT
+
+* List one benefit of using CT
+
+* What is DRR
+
+* What is the purpose of simulation
+
+* What is body contour and why is it important
+
+* Main benefit of CT over Conventional Simulator
+
+* Why is geometric accuracy/information important
+
+* Why is simulation important
+
+* Why is it important to assess the patient's condition
+
+* Why do patients have to raise both their hands when treatment
+
+* What is fluorscopy
+
+* What is the difference of simulator and linear accelerator in terms of energy
+
+* Why does kV produce clearer images than mV
+ 
+* Why does CT have better geometrical accuracy than Conventional simulator
+
+* Is the result on the Xray film an accurate representation
+
+* What is the shape of the table in the CT machine and why
+
+* What is virtual simulation and why is it possible
+
+* OARs when treating breast cases
+
+* Half beam block technique
+
+* Bird's eye view vs Beam's eye view
+
+* CT vs MR main difference
+
+* What is the point of immobilization
+
+* Is there a standard for immobilization
+ 
+* What is a factor to consider during setups and immobilization
+
+* When is suppine and prone used
+ 
+* What is the cons for prone
+ 
+* List a use case for prone treatment and its benefits
+
+* What are the priorities during immobilization
+
+* Why should we consider whether if the patient is uncomfortable
+ 
+* Types of errors
+
+* Differences in setup when comparing head cases and head+neck case
+ 
+* Why do we need special arrangements for immobilization devices when treating abdomen and breast cases
+
+* What are the solutions for the problem mentioned above
+
+* What are the considerations for pallitative cases
+
+* What is isocenter
+* Differences with SSD and SAD

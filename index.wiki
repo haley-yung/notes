@@ -8,9 +8,10 @@
 == SEM2 ==
 * [[MED2110-Principles_of_Oncology_and_Radiotherapy]]
 * 
-
-== Progress ==
-* [[Tracker]]
+ 
+== SEM3 ==
+* [[Book]]  
+* 
 
 == Tech ==
 - [ ] Automate mbsync (cron)
