@@ -13,12 +13,17 @@
 * [[Book]]  
 * 
 
+== Year2 ==
+* [[MED2112-Physics]]
+* [[MED2015-Technique-I]]
+* 
+
 == Tech ==
-- [ ] Automate mbsync (cron)
 - [ ] Manual for neomutt
 - [ ] notmuch (search)
 - [ ] tags
 - [ ] folders
-- [ ] zathura
 - [ ] [[T430_MAX]]
 - [ ] [[Mac]]
+- [ ] [[Balance]]
+- [ ] 

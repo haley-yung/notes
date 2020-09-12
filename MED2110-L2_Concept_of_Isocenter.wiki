@@ -1,80 +1,153 @@
 ## L2 Concept of Isocenter ##
 
 * Verification vs Validation
+- verification -> ensure meets criteria/requirements
+- validation -> ensure device/plan is working as planned
 
-* CT Scan vs CT Therapy
+* CT vs X ray
+- CT is 3D while X ray is 2D
+- CT Scan are good at providing detailed quality imaging for bones, organs and tumor, can check internal organ injuries 
+- X ray excels in detecting bony structures. But fails to diagnose problems with muscle, tissue, organ
 
-* DRR vs DCR
+* CT vs MRI
+- MRI does not use radiation, is less harmful. Excels in showing joints, soft tissues, muscles
 
 * CT vs DRR
+- CT is in 3D which provides a volumetric information about the patient
+- CT is very flexible as it can generate 2D radiographs at different angles including beam angle and different planes (anterior, posterior)  
 
 * List one cons of using CT
+- As CT is in 3D, it is hard for staff to use it to verification
 
 * List one benefit of using CT
+- It is flexible 
+ 
+* Why can CT show bony structure
+- 
 
 * What is DRR
+- Digitally Reconstructed Radiograph
 
 * What is the purpose of simulation
+- To obtain dimensions of the patient, including the volume and location of the tumor and healthy tissues/organs
+- To acquire volumetric data of the patient by CT
+- Assessing the patient's condition (pain in specific areas?) and create a treatment plan accordingly
+- Immobilization devices
 
 * What is body contour and why is it important
+- To outline organs to facilitate planning by avoiding them
 
 * Main benefit of CT over Conventional Simulator
+- CT has volumetric information and has a more accurate 3D representation. Therefore, it has higher geometric accuracy compared to the Conventional simulator
+- Conventional simulators can only achieve 3D images by combining two angles to form a simple 3D image
+- Conventioanl simulators are less accurate geometically
 
 * Why is geometric accuracy/information important
+- Inaccurate geometric information will lead to not enough/ overdose on the tumor
 
 * Why is simulation important
+- To acquire volumetric information and to localize the tumor + healthy tissues
+- Which is an essential part in planning as we have to avoid organs at risk
+- Gives a clear idea to the patient on what is going on, increasing trust and allows them to cooperate
 
 * Why is it important to assess the patient's condition
+- As some patient might be in pain in certain areas
+- The patient's comfort has to be considered
+- Or else it would not be possible for them to reproduce the treatment plant
+- Also would lead to inaccuracy
 
 * Why do patients have to raise both their hands when treatment
+- When the patients are treating chest cases, they raise their hands so that radiation dose will not pass through the healthy tissues(their hands)
 
-* What is fluorscopy
+* What is fluoroscopy
+- It is a continuous Xray beam showing continuous changes
+- It can see moving targets and tumors
 
 * What is the difference of simulator and linear accelerator in terms of energy
+- LA 4MV to 20 MV
+- Electron 4MeV - 25 MeV
+- Diagnose Xray -> 124eV to 124keV
 
-* Why does kV produce clearer images than mV
+* kV vs mV imaging
+- kV imaging has less dose but higher quality images
  
-* Why does CT have better geometrical accuracy than Conventional simulator
-
 * Is the result on the Xray film an accurate representation
+- No, the theory of the Xray works by the Xray passing through the patient, then to the film which shows the result
+- As there is distance between the patient and the film
+- The XRay is not accurate due to the magnification factor ( Similar Triangles )
 
 * What is the shape of the table in the CT machine and why
+- The table of the CT machine is flat as it allows us to place immobilization accessories on them
 
 * What is virtual simulation and why is it possible
+- As we have the volumetric information of the patient by CT 
+- We are able to do virtual simulator and planning without the patient
 
 * OARs when treating breast cases
+- Heart ( left lung )
+- lung
+- spinal cord
 
 * Half beam block technique
+- Technique used when treating chest
+- Can spare organs (heart and lungs) underneathe the chest
 
 * Bird's eye view vs Beam's eye view
+- Bird's eye view is top to bottom
+- Beam's eye view is the perspective from the beam
+- Beam's eye view allows us to perform verfication and QA as the treatment field size/ area is shown
 
 * CT vs MR main difference
+- CT can show bony structures and organs 
+- MR excels at showing soft tissues, tendons, muscles
 
 * What is the point of immobilization
+- Immobilization is to restrict movement of the patient during treatment
+- Patient's movement will lead to inaccuracy no matter how good the plan is
 
 * Is there a standard for immobilization
+- No, immobilization devices being used is according to the needs of the patient
+- As the comfort of the patient is prioritized since their movement will lead to inaccuracy
  
 * What is a factor to consider during setups and immobilization
+- Whether patient is comfortable
+- Reproducibility
 
 * When is suppine and prone used
- 
+- Suppine is commonly used
+- Prone can be used when treating chest, to reduce movement due to respiration, so that the target tumor in the chest will not be moving
+
 * What is the cons for prone
+- It is uncomfortable
  
 * List a use case for prone treatment and its benefits
+- When treating chest, as respiration will cause tumor to move up and down. Lying in a prone position can prevent the target from moving
 
 * What are the priorities during immobilization
+- Patient's condition
+- Whether they are comfortable
 
 * Why should we consider whether if the patient is uncomfortable
+- As patient's movement will lead to inaccuracy
  
 * Types of errors
+- Systematic error -> error that occurs due to specific reason -> can be avoided 
+- Random error -> error that occurs randomly -> adds inconsistency to the plan
 
 * Differences in setup when comparing head cases and head+neck case
+- head case do not contain shoulder mold 
+- as more mold will make the patient uncomfortable
  
 * Why do we need special arrangements for immobilization devices when treating abdomen and breast cases
+- Due to respiration, the target tumor will move up and down
 
 * What are the solutions for the problem mentioned above
+- Treating in a prone position or use a breath hold
+- A breath hold is when a patient hold their breath for 20 seconds and the dose is delivered in the time frame
 
 * What are the considerations for pallitative cases
+- Simple and patient's comfort
+- Complex setup are avoided since the patient cannot maintain their position 
 
 * What is isocenter
-* Differences with SSD and SAD
+- Is the point where radiation beams intersect when the gantry rotates
